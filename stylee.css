@@ -17,6 +17,7 @@ img{
 .topo{
     display: flex;
     justify-content: center;
+}
 
   #search {
     padding: 10px;
@@ -28,7 +29,7 @@ img{
 }
 
 
-}
+
 .logo1{
     
     display: flex;
