@@ -329,8 +329,8 @@ div.videos{
 
 
 footer {
-    display: flex;
-    background-color: white;
+      display: flex;
+    background-color: #010e1f;
     justify-content: center;
-    color: black;
+    color: white;
 }
