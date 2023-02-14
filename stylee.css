@@ -327,7 +327,10 @@ div.videos{
     margin: auto;
 }
 
+
 footer {
-    text-align: center;
-    background-color: #010e1f;
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    color: black;
 }
