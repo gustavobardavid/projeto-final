@@ -18,7 +18,14 @@ img{
     display: flex;
     justify-content: center;
 
-  
+  #search {
+    padding: 10px;
+    size-adjust: 10px;
+    cursor: pointer;
+    display: flex;
+    color: white;
+
+}
 
 
 }
